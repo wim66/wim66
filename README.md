@@ -48,7 +48,11 @@ Here you can find a selection of projects I've worked on or am currently working
 | [Conky Weather & Forecast](https://github.com/wim66/Conky-Weather-and-forecast) | A lightweight and customizable weather widget for Conky |
 | [Conky Digital Clocks](https://github.com/wim66/conky-digital-clocks) | A lightweight and customizable weather widget for Conky |
 | [conky Analog Clocks](https://github.com/wim66/Conky-Lua-Clocks) | A collection of analog lua clocks |
-| [All Reposetories](https://github.com/wim66?tab=repositories) | All public repositories |
+| [All Repositories](https://github.com/wim66?tab=repositories) | All public repositories |
+
+---
+
+![Conky.gif](assets/Conky.gif)
 
 ---
 
